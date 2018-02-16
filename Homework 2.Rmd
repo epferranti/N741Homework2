@@ -1,6 +1,6 @@
 ---
 title: "Homework 2"
-author: "Vicki Hertzberg and Melinda Higgins"
+author: "Erin Ferranti"
 date: "2/14/2018"
 output:
   pdf_document: default
